@@ -20,9 +20,9 @@ It was developed as part of a university assignment and focuses on database inte
 
 ## Project Structure
 
-movie-database
-app.py
-requirements.txt
-settings.example.py
-.gitignore
+movie-database /
+app.py /
+requirements.txt /
+settings.example.py /
+.gitignore /
 README.md
