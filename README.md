@@ -1,4 +1,4 @@
-# Movie Database Backend
+# Movie Database 
 
 This project is a Python backend module that connects to a MySQL database and performs queries 
 
@@ -20,9 +20,9 @@ It was developed as part of a university assignment and focuses on database inte
 
 ## Project Structure
 
-movie-database /
-app.py /
-requirements.txt /
-settings.example.py /
-.gitignore /
-README.md
+movie-database/
+├── app.py
+├── requirements.txt
+├── settings.example.py
+├── .gitignore
+└── README.md
