@@ -21,7 +21,7 @@ It was developed as part of a university assignment and focuses on database inte
 ## Project Structure
 
 ```text
-movie-database/
+movie_database/
 ├── app.py
 ├── requirements.txt
 ├── settings.example.py
